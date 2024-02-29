@@ -8,4 +8,5 @@ Sample Image before Undistortion
 ![Image 1](https://github.com/hrushipandit/Image_Calibration_Script/assets/53423940/75abadea-79ba-4385-9f5c-69d4e399de80)
 
 Image after Undistortion
-![Image 1 png_Newresult](https://github.com/hrushipandit/Image_Calibration_Script/assets/53423940/2452741c-2ffb-4ef1-b6f1-67a2c7446075)
+![Image 3 png_Newresult](https://github.com/hrushipandit/Image_Calibration_Script/assets/53423940/d5777438-9720-4ae4-96a3-a25e19f2f9ea)
+
