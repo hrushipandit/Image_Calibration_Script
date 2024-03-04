@@ -1,4 +1,4 @@
-# Image_Calibration_Script
+# Camera_Calibration_Script
 
 This code snippet is designed to calibrate a camera using multiple images of a chessboard pattern. It involves several steps, including finding chessboard corners in images, camera calibration, undistortion of images. The code snippet was made primarily referring to the OpenCV documentation Tutorial. https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html
 
